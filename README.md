@@ -2,11 +2,13 @@
 
 - Web Manajemen Mebel adalah aplikasi berbasi web yang menggunakan framework LARAVEL. Dimana fitur yang ada di dalam web meliputi:
 ---
-# Bahasa Pemrograman yang digunakan
+# Bahasa Pemrograman
 - PHP
 - HTML
 - JAVASCRIPT
 - CSS
+# DATABASE
+- MYSQL
 # Framework yang digunakan
 - LARAVEL 9
 ---
