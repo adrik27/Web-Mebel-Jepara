@@ -1,5 +1,3 @@
-<p align="center"><a href="#" target="_blank"><img src="/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="200" height="165" alt="Bootstrap" class="d-block mx-auto mb-3"></a></p>
-
 # Tentang Web Manajemen Mebel
 
 - Web Manajemen Mebel adalah aplikasi berbasi web yang menggunakan framework LARAVEL. Dimana fitur yang ada di dalam web meliputi:
