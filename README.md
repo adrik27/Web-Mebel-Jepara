@@ -1,7 +1,16 @@
-## Tentang Web Manajemen Mebel
+# Tentang Web Manajemen Mebel
 
-Web Manajemen Mebel adalah aplikasi berbasi web yang menggunakan framework LARAVEL. Dimana fitur yang ada di dalam web meliputi:
-
+- Web Manajemen Mebel adalah aplikasi berbasi web yang menggunakan framework LARAVEL. Dimana fitur yang ada di dalam web meliputi:
+---
+# Bahasa Pemrograman yang digunakan
+- PHP
+- HTML
+- JAVASCRIPT
+- CSS
+# Framework yang digunakan
+- LARAVEL 9
+---
+# FITUR DAN ROLE
 GUEST
 - Registrasi->Role Sales
 - Login
@@ -34,4 +43,4 @@ SALES
 - Ahmad Ahsana Taqwim
 
 ## License
-- Web Produksi Mebel berlisensi dari muria tech
+- Web Produksi Mebel berlisensi dari Muria Tech
