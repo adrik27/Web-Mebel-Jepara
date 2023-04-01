@@ -41,7 +41,7 @@ SALES
 - Riwayat Transaksi (Detail Riwayat Order, Track Proses Produksi)
 
 ## Contributor/Pembuat
-- Muhammad Adrik Al'Izza
+- Muhammad Adrik Al'Izza (adrikmuhammad0@gmail.com)
 - Ahmad Ahsana Taqwim
 
 ## License
